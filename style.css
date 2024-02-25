@@ -1,0 +1,17 @@
+* {
+    font-family: arial;
+    
+}
+
+h1 {
+    background-color: aquamarine;
+}
+
+#proj {
+    padding: 20px;
+    border: 1px solid aquamarine;
+}
+
+#projdiv {
+    width: 400px;
+}
