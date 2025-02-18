@@ -46,9 +46,23 @@
             margin-right: auto;
         }
     }
+
+    .socials {
+        text-align: center;
+        img[src="images/linkedin.png"] {
+            width: 70px;
+            height: 70px;
+            margin: 10px;
+        }
+        img[src="images/github.png"] {
+            width: 70px;
+            height: 70px;
+            margin: 10px;
+        }
+    }
 }
 
 
 body {
-    background-color: #0b132b;
+    background-image: url("images/background.jpg");
 }
